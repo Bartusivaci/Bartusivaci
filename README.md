@@ -17,7 +17,7 @@
 ## Skills 🤹🏻
 
 ### #️⃣ Programming Languages 
-![c++](https://img.shields.io/badge/C++-2916B4?style=for-the-badge&logo=&logoColor=white) ![c#](https://img.shields.io/badge/CSharp-7616B4?style=for-the-badge&logo=CSharp&logoColor=white) ![python](https://img.shields.io/badge/Python-0980F0?style=for-the-badge&logo=Python&logoColor=white) ![java](https://img.shields.io/badge/Java-0AC7D3?style=for-the-badge&logo=Java&logoColor=white) ![dart](https://img.shields.io/badge/Dart-8B0499?style=for-the-badge&logo=Dart&logoColor=white)
+![c++](https://img.shields.io/badge/C++-2916B4?style=for-the-badge&logo=&logoColor=white) ![c#](https://img.shields.io/badge/C_Sharp-7616B4?style=for-the-badge&logo=CSharp&logoColor=white) ![python](https://img.shields.io/badge/Python-0980F0?style=for-the-badge&logo=Python&logoColor=white) ![java](https://img.shields.io/badge/Java-0AC7D3?style=for-the-badge&logo=Java&logoColor=white) ![dart](https://img.shields.io/badge/Dart-8B0499?style=for-the-badge&logo=Dart&logoColor=white)
 
 ### 🌐 Cross Platform Development
 ![flutter](https://img.shields.io/badge/Flutter-08970C?style=for-the-badge&logo=Flutter&logoColor=white)
