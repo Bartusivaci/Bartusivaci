@@ -38,7 +38,7 @@ My English Level is C1 (Advanced / Expert) and I have a score of 7.0 / 9.0 in IE
 
 ## 🔗 Links
 
-[<img align="left" src="https://cms.simmer.io/content/images/2019/08/simmer-logo-yellow-super-high-resolution.png" width=50px>](https://simmer.io/@bartu) [<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Linkedin_Shiny_Icon.svg" width=50px>](https://www.linkedin.com/in/bartu-sivaci/)
+[<img align="left" src="https://cms.simmer.io/content/images/2019/08/simmer-logo-yellow-super-high-resolution.png" width=50px>](https://simmer.io/@bartu) [<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Linkedin_Shiny_Icon.svg" width=50px>](https://www.linkedin.com/in/bartu-sivaci/) [<img align="left" src="https://static.itch.io/images/itchio-textless-black.svg" width=50px>](https://bartusivaci.itch.io/)
 
 
 
