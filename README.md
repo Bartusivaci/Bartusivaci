@@ -4,15 +4,12 @@
 
 ## About Me 🙃 
 
-🎓 Name's Bartu and I'm from Turkey. I have a Bachelor's Degree in Computer Engineering. (Graduated in July 2021)
+🎓 Name's Bartu and I have a Bachelor's Degree in Computer Engineering. Currently I'm pursuing a Master's Degree in Artificial Intelligence. 
 
-👾 I'm currently learning Unity and I enjoy making games in my free times. 
+👾 I enjoy making games in my free times with Unity. 
 
 🎮 I also love playing computer games as much as I love making them. 
 
-🐸 I'm a memer and I have 2 meme pages on Instagram with total of 300,000+ followers.
-
-✈️ I like traveling too. I've participated in the Work and Travel USA program in 2019.
 
 ## Skills 🤹🏻
 
