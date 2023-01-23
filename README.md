@@ -6,10 +6,7 @@
 
 🎓 Name's Bartu and I have a Bachelor's Degree in Computer Engineering. Currently I'm pursuing a Master's Degree in Artificial Intelligence. 
 
-👾 I enjoy making games in my free times with Unity. 
-
-🎮 I also love playing computer games as much as I love making them. 
-
+👾 I enjoy learning Unity in my free times. 
 
 ## Skills 🤹🏻
 
